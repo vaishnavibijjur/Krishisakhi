@@ -1,4 +1,4 @@
-# Krishi Sakhi (ಕೃಷಿ ಸಖಿ) / Raithamitra
+# Krishi Sakhi (ಕೃಷಿ ಸಖಿ)
 
 Farmer-focused, mobile-responsive web application designed to empower farmers in Karnataka with AI-driven plant disease detection, agricultural NLP/RAG chat assistance (in Kannada and English), voice interaction, government scheme navigation, and market price tracking.
 
