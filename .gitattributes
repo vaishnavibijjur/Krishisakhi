@@ -1,0 +1,5 @@
+nlp/kb.index filter=lfs diff=lfs merge=lfs -text
+nlp/final_knowledge_base.jsonl filter=lfs diff=lfs merge=lfs -text
+tts/*.onnx filter=lfs diff=lfs merge=lfs -text
+disease_detection/models/*.keras filter=lfs diff=lfs merge=lfs -text
+tts/.cache/** filter=lfs diff=lfs merge=lfs -text
